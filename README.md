@@ -53,5 +53,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshdhankhar10&show_icons=true&theme=algolia&locale=en" alt="harshdhankhar10" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshdhankhar10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="harshdhankhar10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdhankhar10&theme=algolia" alt="harshdhankhar10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshdhankhar10&theme=algolia&cache_seconds=3600" alt="harshdhankhar10" />
+
 </p>
