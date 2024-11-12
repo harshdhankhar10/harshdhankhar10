@@ -12,10 +12,10 @@
 ---
 
 ### 🌟 About Me
-- 🔭 Currently working on **Decentralized Digital Marketplace**
-- 🌱 Learning **Backend Development in Node.js**
-- 👯 Looking to collaborate on **Frontend Projects**
-- 💬 Ask me about **React.js**
+- 🔭 Currently working on **MultiProductivity Website**
+- 🌱 Learning **Full Stack Web Development**
+- 👯 Looking to collaborate on **MERN Stack Projects**
+- 💬 Ask me about **MERN Stack**
 - 📫 Reach me at **dhankhar14804@gmail.com**
 
 ---
